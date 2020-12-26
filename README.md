@@ -1,32 +1,11 @@
-# starter
+# Phillips Exeter Academy Puzzle Hunt Archive
 
-1. [Generate with the same files and folders](https://github.com/rundocs/starter/generate) from this repository
-2. Set up your GitHub Pages to source(`/`)
-3. Now you can view your documentation in your site
+# [PUZZLES BY YEAR](puzzles-by-year/)
 
-## site.pages
+Hello there! This archive is a work-in-progress. Currently, all puzzles from . We are currently working on proper solution documentation for all of our past puzzles. Past specific puzzle content, we are thinking of some day including on here some of our design methodology and puzzle-crafting "best-practices" (much alike [this lovely blog post](http://web.mit.edu/dwilson/www/puzzles/puzzlewriting.html)). 
 
-<!-- prettier-ignore-start -->
+The Arecibo observatory collapsed recently, proving our hopeful extra-terrestrial contact a "no-go," which means, sadly, we will not be able to archive or provide solutions for ongoing / future hunts. Once a future hunt is complete, however, in due time it will make its way onto this site.
 
-| source          | link                                                           |
-| --------------- | -------------------------------------------------------------- |
-{% for page in site.pages -%}
-| {{ page.path }} | [{{ page.url | relative_url }}]({{ page.url | relative_url }}) |
-{% endfor %}
+*Note: The search toolbar in the top left does work! With a larger group's support, I am thinking of tagging each puzzle by keyword sometime in the future to allow more search possibilities than just name or authorship.*
 
-<!-- prettier-ignore-end -->
-
-## Documents
-
-https://jekyll-rtd-theme.rundocs.io
-
-## Local debug
-
-```sh
-make
-make server
-```
-
-## The license
-
-The theme is available as open source under the terms of the MIT License
+*The [RunDocs theme](https://rundocs.io/) used for this site is available as open source under the terms of the [MIT License](https://www.mit.edu/~amini/LICENSE.md)*
