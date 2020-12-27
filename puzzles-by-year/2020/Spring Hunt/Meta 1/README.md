@@ -9,4 +9,4 @@ sort: 1
 
 ##### Puzzles in Meta:
 {% include list.liquid all=true %}
-- *Puzzle 6 was an interactive judge puzzle, where the answer was **OUTJUGGLED***
+- *Puzzle 1.5, "Cyber Security," was an interactive judge puzzle, where the answer was **OUTJUGGLED***

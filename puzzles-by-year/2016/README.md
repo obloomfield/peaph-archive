@@ -1,3 +1,7 @@
+---
+sort: 1
+---
+
 # 2016
 
-source: `{{ page.path }}`
+{% include list.liquid all=true %}
