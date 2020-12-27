@@ -2,11 +2,10 @@
 sort: 2
 ---
 
-# Meta 2: Syllabus
+# Meta 2
 
-#### [Puzzle Page](2-p.pdf) | [Solution](2.pdf)
-#### Author(s): [Bryce Morales](../../../../search.html?q=Bryce+Morales)
+#### [Puzzle Page](2-p.pdf) | *Solution Missing
+#### Author(s): [Vinjai Vale](../../../../search.html?q=Vinjai+Vale)
 
 ##### Puzzles in Meta:
 {% include list.liquid all=true %}
-- *Puzzle 2.2, "Vulture Chase" was an interactive judge puzzle, where the answer was **INNOCENCE***

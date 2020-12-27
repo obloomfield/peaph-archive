@@ -2,10 +2,10 @@
 sort: 5
 ---
 
-# Meta 4: Child's Play
+# Meta 4
 
 #### [Puzzle Page](4-p.pdf) | *Solution Missing*
-#### Author(s): [Andrew Loevinger](../../../../search.html?q=Andrew+Loevinger)
+#### *Authorship Missing*
 
 ##### Puzzles in Meta:
 {% include list.liquid all=true %}
