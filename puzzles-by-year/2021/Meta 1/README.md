@@ -11,6 +11,8 @@ sort: 1
 
 # LEGACY: Meta 1 (4est 4 the 3s)
 
+*not broken, just broken*
+
 #### [Puzzle Page](1-p-LEGACY.pdf) | [Solution](1-LEGACY.pdf)
 #### Author(s): [Liam Brown](../../../search.html?q=Liam+Brown)
 
