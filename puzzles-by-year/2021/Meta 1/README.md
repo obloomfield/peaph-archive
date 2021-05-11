@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# FINAL: Meta 1
+# Meta 1
 
 #### [Puzzle Page](1-p.pdf) | [Solution](1.pdf)
 #### Author(s): [Alexander DelFranco](../../../../search.html?q=Alexander+DelFranco), [Thomas Mowen](../../../../search.html?q=Thomas+Mowen)
