@@ -4,7 +4,7 @@ sort: 1
 
 # Meta 1
 
-#### [Puzzle Page](1-p.pdf) | *Solution Missing*
+#### [Puzzle Page](meta1.pdf) | *Solution Missing*
 #### Author(s): [Alexander DelFranco](../../../../search.html?q=Alexander+DelFranco), [Thomas Mowen](../../../../search.html?q=Thomas+Mowen)
 
 # LEGACY: Meta 1 (4est 4 the 3s)
